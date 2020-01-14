@@ -8,3 +8,4 @@ def greet(first_name, last_name):
 # Replace with your first and last name.
 # That is, unless your name is already James Bond.
 greet('James', 'Bond')
+print(greet)
