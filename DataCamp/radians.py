@@ -4,13 +4,13 @@ DATE: 01/14/2020
 """
 
 # Definition of radius
-r = 192500
+radius = 192500
 
 # Import radians function of math package
 from math import radians
 
 # Travel distance of Moon over 12 degrees. Store in dist.
-dist = r * radians(12)
+distance = radius * radians(12)
 
 # Print out dist
-print(dist)
+print(distance)
