@@ -1,0 +1,6 @@
+#Author: Maria Malave 4/22/2020
+
+base_triangle = 5
+height_triangle = 3
+area_triangle = (base_triangle*height_triangle)/2
+print(area_triangle)
