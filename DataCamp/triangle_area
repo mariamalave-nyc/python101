@@ -16,4 +16,4 @@ height_triangle = 3
 area_triangle = (base_triangle*height_triangle)/2
 
 #print the area
-print(area_triangle)
+print("The area of the triangle is: " + str(area_triangle))
