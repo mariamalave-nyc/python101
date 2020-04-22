@@ -1,6 +1,19 @@
-#Author: Maria Malave 4/22/2020
+""""
 
+Author: Maria Malave 4/22/2020
+
+""""
+
+#Calculate the are of a triangle
+
+#Definte the lenght of the base
 base_triangle = 5
+
+#Definte the height of the base
 height_triangle = 3
+
+#Calculate the are of a triangle
 area_triangle = (base_triangle*height_triangle)/2
+
+#print the area
 print(area_triangle)
